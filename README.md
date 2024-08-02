@@ -1,0 +1,1 @@
+This project involved developing an automated testing solution for the Pentathlone website using Selenium WebDriver with Java. The primary objective was to enhance the testing efficiency and reliability of the website by automating repetitive tasks and ensuring consistent functionality across different scenarios.
